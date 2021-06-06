@@ -1,4 +1,3 @@
-
 eng_rus_dict = {
     'one': 'один',
     'two': 'два',
